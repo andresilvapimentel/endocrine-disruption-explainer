@@ -44,7 +44,7 @@ Or
 
 # License
 
-Endocrine Disruption Explainer is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/endocrine-disruptor-explainer (https://doi.org/10.5281/zenodo.10459994)
+Endocrine Disruption Explainer is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/endocrine-disruptor-explainer (https://doi.org/10.5281/zenodo.10963050)
 
 # Contributors
 
