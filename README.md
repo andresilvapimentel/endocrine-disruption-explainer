@@ -1,8 +1,8 @@
 # endocrine-disruption-explainer
 
-<img src="DNA_emoji_1.jpeg" alt="drawing" width="200"/>
+<img src="TOC_4.jpeg" alt="drawing" width="200"/>
 
-[![DOI](https://zenodo.org/badge/739043672.svg)](https://zenodo.org/doi/10.5281/zenodo.10459978)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10963050.svg)](https://doi.org/10.5281/zenodo.10963050)
 
 Endocrine Disruption Explainer is a code to generate structural alerts using Local Interpretable Model-Agnostic Explanations (LIME) of machine learning models from the TOX21, EDC and EDKB-FDA datasets.
 
