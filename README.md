@@ -32,7 +32,7 @@ Endocrine Disruption Explainer has the following dependencies: Lime, RDkit, Deep
 
 # Documentation
 
-The complete documentation about how to run the Endocrine Disruption Explainer protocol and several tutorials is being developed.
+The complete documentation about how to run the Endocrine Disruption Explainer protocol and several tutorials is being developed. The article is now published on line: https://doi.org/10.1021/envhealth.4c00218
 
 # Get help
 
